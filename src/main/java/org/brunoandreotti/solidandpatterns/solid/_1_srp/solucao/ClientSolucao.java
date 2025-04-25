@@ -1,4 +1,4 @@
-package org.brunoandreotti.solidandpatterns.solid.srp.solucao;
+package org.brunoandreotti.solidandpatterns.solid._1_srp.solucao;
 
 
 

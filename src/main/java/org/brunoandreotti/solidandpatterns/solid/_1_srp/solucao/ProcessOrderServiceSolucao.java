@@ -1,4 +1,4 @@
-package org.brunoandreotti.solidandpatterns.solid.srp.solucao;
+package org.brunoandreotti.solidandpatterns.solid._1_srp.solucao;
 
 //Para resolver o problema podemos retirar a lógica dos passos de processamento de um pedido
 //e tranferir ela para classes separadas, dessa maneira deixando cada classe com sua responsabilidade

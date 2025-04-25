@@ -1,4 +1,4 @@
-package org.brunoandreotti.solidandpatterns.solid.srp.violacao;
+package org.brunoandreotti.solidandpatterns.solid._1_srp.violacao;
 
 // SRP — Single Responsibility Principle (Princípio da Responsabilidade Única)
 // Uma classe deve ter um, e somente um, motivo para mudar.
