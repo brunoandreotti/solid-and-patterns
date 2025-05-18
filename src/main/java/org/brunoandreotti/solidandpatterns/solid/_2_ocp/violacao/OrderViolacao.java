@@ -5,9 +5,9 @@ package org.brunoandreotti.solidandpatterns.solid._2_ocp.violacao;
 
 //Esse princípio declara que quando novos comportamentos e recursos
 // precisam ser adicionados no software,
-// devemos estender e não alterar o código fonte original.
+// devemos estender e não alterar o código-fonte original.
 
-//Estamos violando esse principio pois, estando com a regra de tipos de descontos dentro da classe
+//Estamos violando esse principio, pois, estando com a regra de tipos de descontos dentro da classe
 //caso surja a necessidade de adicionar mais um tipo de desconto iremos precisar modificar a classe,
 //tornando ela aberta para modificação
 
